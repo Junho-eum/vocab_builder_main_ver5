@@ -79,9 +79,9 @@ function App() {
       hint: "The queen was so ____ that she had her husband killed so that she could marry her lover.",
     },
     {
-      word: "지루한",
-      synonym: "prosaic",
-      "The ____ writing style of the novel made it difficult to read.",
+        word: "지루한",
+        synonym: "prosaic",
+        hint: "The ____ writing style of the novel made it difficult to read.",
     },
     {
       word: "진위성",
