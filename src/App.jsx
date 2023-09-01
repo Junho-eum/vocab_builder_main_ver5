@@ -68,6 +68,61 @@ function App() {
       synonym: "miscreant",
       hint: "The miscreant was sent to prison for his crimes.",
     },
+    {
+      word: "풍부한",
+      synonym: "flush",
+      hint: "The exam's passage was flush with difficult vocabulary.",
+    },
+    {
+      word: "음모를 꾸미는",
+      synonym: "conniving",
+      hint: "The queen was so conniving that she had her husband killed so that she could marry her lover.",
+    },
+    {
+      word: "지루한",
+      synonym: "prosaic",
+      "The prosaic writing style of the novel made it difficult to read.",
+    },
+    {
+      word: "진위성",
+      synonym: "versimilitude",
+      hint: "The versimilitude of the painting was so great that it looked like a photograph.",
+    },
+    {
+      word: "속임수",
+      synonym: "subterfuge",
+      hint: "The spy used subterfuge to get the information he needed.",
+    },
+    {
+      word: "보복",
+      synonym: "reprisal",
+      hint: "The country launched a reprisal attack against its enemy.",
+    },
+    {
+      word: "병렬",
+      synonym: "juxatapos",
+      hint: "The juxatapos of the two paintings made it clear that the artist was trying to make a point.",
+    },
+    {
+      word: "형사상의",
+      synonym: "pucniary",
+      hint: "The pucniary reward for the capture of the criminal was $10,000.",
+    },
+    {
+      word: "가난한",
+      synonym: "impecunious",
+      hint: "The couple was so impecunious that they could not afford to buy food.",
+    },
+    {
+      word: "특이한 습관",
+      synonym: "idiosyncrasy",
+      hint: "The idiosyncrasy of the artist was that he always painted with his feet.",
+    },
+    {
+      word: "참견하기 좋아하는",
+      synonym: "officious",
+      hint: "The professor had an officious manner that made it difficult for students to ask questions.",
+    },
   ];
   const [index, setIndex] = useState(0);
   const [inputValue, setInputValue] = useState("");
