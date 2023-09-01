@@ -28,6 +28,46 @@ function App() {
       synonym: "meander",
       hint: "The river ____ through the valley.",
     },
+    {
+      word: "다부서져가는",
+      synonym: "dilapidated",
+      hint: "The house was in a dilapidated condition.",
+    },
+    {
+      word: "추방하다",
+      synonym: "ostracize",
+      hint: "Later in his lif, Leo Tolstoy was ostracized by the Russian Orthodox Church for his radical views.",
+    },
+    {
+      word: "악의적인",
+      synonym: "baleful",
+      hint: "The baleful look on his face made me think that he was about to hit me.",
+    },
+    {
+      word: "조장하는",
+      synonym: "inflammatory",
+      hint: "The inflammatory speech by the politician caused a riot.",
+    },
+    {
+      word: "죽어가는",
+      synonym: "moribund",
+      hint: "The moribund patient was not expected to live through the night.",
+    },
+    {
+      word: "시끄러운",
+      synonym: "obstreperous",
+      hint: "The obstreperous child was sent to the principal's office.",
+    },
+    {
+      word: "성급한",
+      synonym: "irascible",
+      hint: "If you don't want to make him angry, don't mention his ex-wife. He's very irascible about her.",
+    },
+    {
+      word: "비행하는",
+      synonym: "miscreant",
+      hint: "The miscreant was sent to prison for his crimes.",
+    },
   ];
   const [index, setIndex] = useState(0);
   const [inputValue, setInputValue] = useState("");
